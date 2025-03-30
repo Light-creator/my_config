@@ -27,4 +27,6 @@ Plug('neoclide/coc.nvim', {['branch'] = 'release'})
 
 Plug('terrortylor/nvim-comment')
 
+Plug('romgrk/barbar.nvim')
+
 vim.call('plug#end')
